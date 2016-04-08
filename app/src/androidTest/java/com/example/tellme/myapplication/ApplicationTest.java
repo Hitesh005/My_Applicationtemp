@@ -11,5 +11,5 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
         super(Application.class);
     }
     //Comments testing for Github
-    //Comment002
+    //Comment002.
 }
